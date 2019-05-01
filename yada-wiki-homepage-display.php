@@ -1,7 +1,7 @@
 <?php
 /**
   * Plugin Name: Yada Wiki Homepage Display
-  * Plugin URI: https://www.google.com/
+  * Plugin URI: https://github.com/ngagnon1/yada-wiki-homepage-display
   * Description: Displays the content and title of a wiki page on the front page
   * Version: 1.0
   * Author: Nathan Gagnon
